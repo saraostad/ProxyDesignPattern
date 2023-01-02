@@ -1,0 +1,14 @@
+Here is a real-world implementation of the Proxy design pattern in C#. In this example, you will see how the proxy design pattern hides the actual object. The example shows a logging proxy. It logs the operation before RealSubject performs the math operation.
+
+
+output
+
+Calling the Math functions via Proxy
+Log addition
+20 + 2 = 22
+Log substraction
+20 - 2 = 18
+Log multiplication
+20 x 2 = 40
+Log division
+20 / 2 = 10
